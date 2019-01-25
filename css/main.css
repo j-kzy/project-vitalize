@@ -1675,7 +1675,7 @@ input::-moz-focus-inner {
   position: relative;
   display: table;
 }
-.s-home .shadow-overlay {
+.s-home {
   position: absolute;
   top: 0;
   left: 0;
